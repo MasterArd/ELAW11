@@ -16,7 +16,7 @@ echo Invalid choice. Please try again.
 pause
 goto menu
 :create_user
-start ms-chx:localonly
+start ms-cxh:localonly
 if errorlevel 1 (
     echo Failed to open Local User.
     pause
@@ -30,4 +30,5 @@ goto menu
 :end
 echo Exiting...
 timeout /t 2 /nobreak >nul
+
 exit
