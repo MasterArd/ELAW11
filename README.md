@@ -3,7 +3,7 @@
 This guide explains how to enable and set up a **local account** in Windows 11.
 
 ## Compatibility
-- ✅ Works as of **January 2026**
+- ✅ Works as of now: **January 2026**
 - ✅ Compatible with all editions of Windows 11:
   - Pro  
   - Home  
