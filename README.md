@@ -3,7 +3,7 @@
 This guide explains how to enable and set up a **local account** in Windows 11.
 
 ## Compatibility
-- ✅ Works as of now: **January 2026**
+- ✅ Works as of now: **February 2026**
 - ✅ Compatible with all editions of Windows 11:
   - Pro  
   - Home  
@@ -11,6 +11,7 @@ This guide explains how to enable and set up a **local account** in Windows 11.
   - N  
 
 ## Why Use a Local Account?
+- Can be used during installation
 - Increased privacy (no Microsoft account required)
 - Useful for testing, troubleshooting, or offline use
 - Keeps your system independent of cloud services
@@ -24,5 +25,6 @@ This guide explains how to enable and set up a **local account** in Windows 11.
 6. **(Optional)** add an password this is **not** needed
 
 ## Notes
+- Can be used during installation
 - Some features (like OneDrive sync or Microsoft Store purchases) require a Microsoft account.  
 - Local accounts are fully supported across all Windows 11 editions.  
